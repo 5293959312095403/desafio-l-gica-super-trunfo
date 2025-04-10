@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// Esse eu tive bastante dificuldade para fazer, não sei se realmente fiz certo, mas decidi mandar mesmo assim 🙁
-
 
 int main(){
     int populacao, pontosturisticos, populacao2, pontosturisticos2, opcao1, opcao2, comparacao, resultado1, resultado2;
